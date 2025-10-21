@@ -1,0 +1,1 @@
+{"specimen_id": "chicken 1.0", "specimen_name": "Johan", "company_name": "BISE", "company_site": "Gothenburg", "nominal_thickness": 0.5, "nominal_diametre": 40.2, "installation_date":{ "$date": "1975-09-29"}, "disassembly_day": { "$date": "2025-10-12"}, "receipt_day": { "$date": "2025-10-12T00:00:00Z" }}
